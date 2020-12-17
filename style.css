@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: linear-gradient( lightblue 0%,darkblue 100%);
+	
+}
+
+img{
+  border-radius:50%;
+  width:100px;
+}
+
+h2{
+  font-size:20px;
+  color:darkblue;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+}
