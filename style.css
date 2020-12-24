@@ -26,7 +26,7 @@ h2{
 }
 .unord{
     list-style: none;
-    position: absolute;
+    position: fixed;
     cursor: pointer;
     z-index: 10;
     top: 10px;
@@ -34,6 +34,7 @@ h2{
 }
 .lii{
     padding: 5px;
+    background-color: coral;
     font-family: fantasy;
     font-size: 20px;
     float: left;
@@ -42,4 +43,10 @@ h2{
     background-color: darkturquoise;
     font-size: 25px;
     font-family: 'Skranji', cursive;
+}
+a{
+    text-decoration: none
+}
+.wrote_by_tim:hover{
+    color:aqua;
 }
